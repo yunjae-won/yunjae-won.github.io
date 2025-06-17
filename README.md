@@ -1,1 +1,2 @@
-This is the source code to Jon Barron's public academic website: https://jonbarron.info/. Feel free to clone this code for your own personal use.
+This is the source code to Yunjae Won's public academic website: https://yunjae-won.github.io/.
+The source code was mostly taken from Jon Barron's website: https://github.com/jonbarron/jonbarron.github.io.
